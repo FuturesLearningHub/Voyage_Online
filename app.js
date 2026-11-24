@@ -1,5 +1,5 @@
 /* ══════════ VANDERBILT VOYAGE ONLINE · app engine ══════════
-   Built on the Manager Foundations engine (me5231979/Manager-Voyage,
+   Built on the Manager Foundations engine (FuturesLearningHub/Manager-Voyage,
    foundation/app.js): the same narration layer, progress rail, tap-to-open
    maps, one-at-a-time drills, your-call scenarios, and knowledge check,
    with the Voyage content, in six modules. Ten tracked activities. State: localStorage

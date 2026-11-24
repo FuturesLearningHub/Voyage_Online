@@ -2,7 +2,7 @@
 
 The self-paced start of a new Vanderbilt staff member's journey, rebuilt
 from the Rise course on the **Manager Foundations** engine
-(`me5231979/Manager-Voyage`, `foundation/`) in the Vanderbilt brand. Six
+(`FuturesLearningHub/Manager-Voyage`, `foundation/`) in the Vanderbilt brand. Six
 modules, about forty minutes, one idea per page, every page narrated. The
 structure follows the Manager Voyage simplified model (`foundation/simple/`):
 a module page, modules that open one at a time, one activity per page, an Up
@@ -30,7 +30,7 @@ One idea per page: a headline, one line of why, one interaction; narration carri
 
 ## Live site
 
-https://me5231979.github.io/Voyage_Online/ (GitHub Pages, served from the `gh-pages` branch, a mirror of the course branch).
+https://futureslearninghub.github.io/Voyage_Online/ (GitHub Pages, served from the `gh-pages` branch, a mirror of the course branch).
 
 ## Files
 
@@ -92,8 +92,8 @@ Two ready-to-upload packages in `dist/`, the same course as the live site:
 - `Vanderbilt-Voyage-Online-SCORM2004.zip`: SCORM 2004 4th edition, if your LMS prefers it.
 
 Download links (served from the live site):
-https://me5231979.github.io/Voyage_Online/dist/Vanderbilt-Voyage-Online-SCORM12.zip
-https://me5231979.github.io/Voyage_Online/dist/Vanderbilt-Voyage-Online-SCORM2004.zip
+https://futureslearninghub.github.io/Voyage_Online/dist/Vanderbilt-Voyage-Online-SCORM12.zip
+https://futureslearninghub.github.io/Voyage_Online/dist/Vanderbilt-Voyage-Online-SCORM2004.zip
 
 What the LMS receives (`assets/js/scorm.js`):
 
